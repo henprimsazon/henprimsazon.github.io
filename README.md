@@ -14,12 +14,14 @@
         <header>
             <h1 id="hw3">Who is Kuromi? </h1>
             <a class="a1" href="">Home</a>
-            <a class="a1" href="">About</a>
+            <a class="a1" href="">About us</a>
+            <a class="a1" href="">Products</a>
         </header><br>
 
         <main>
             <p id="wp1">"Say hello to my little friend!"
 —Kuromi goes to attack a candy monster during the episode Kuromi's Night of the Living Desserts in Hello Kitty and Friends Supercute Adventures.</p>
+           <p id="wp1">All About Kuromi is a shop that sells Kuromi Merchandise—such as phone cases, pillows, fluffy bags, and many more.   For more info, check out our email below.</p>
             
         </main>
 
