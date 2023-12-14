@@ -22,7 +22,7 @@
         <main>
             <p id="wp1">"Say hello to my little friend!"
 —Kuromi goes to attack a candy monster during the episode Kuromi's Night of the Living Desserts in Hello Kitty and Friends Supercute Adventures.</p>
-           <p id="wp1">All About Kuromi is a shop that sells Kuromi Merchandise—such as phone cases, pillows, fluffy bags, and many more.   For more info, check out our email below.</p>
+           <p id="wp1">All About Kuromi is a shop that sells Kuromi Merchandise—such as phone cases, pillows, fluffy bags, and many more.   For more info, check out our link.</p>
             
         </main>
 
