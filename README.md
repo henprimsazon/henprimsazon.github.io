@@ -13,7 +13,8 @@
 
     <body class="body2">
         <header>
-            <h1 id="hw3">POWERCAT CATFOOD</h1>
+            <h1 id="hw3">POWERCAT </h1>
+            <h2 id="hw2">Pet Shop </h2>
             <a class="a1" href="">Home</a>
             <a class="a1" href="">About Us</a>
             <a class="a1" href="">Products</a>
