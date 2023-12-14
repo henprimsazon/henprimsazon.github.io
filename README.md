@@ -16,6 +16,7 @@
             <a class="a1" href="">Home</a>
             <a class="a1" href="">About us</a>
             <a class="a1" href="">Products</a>
+            <a href="https://kuromi.com">Link text</a>
         </header><br>
 
         <main>
@@ -30,9 +31,7 @@
             <a href="">kuromiemail.com</a>
         </footer>
     </body>
-    <image>
-![Kuromi](https://images.app.goo.gl/vLq7G95YmuGm5vhf9)
-    </image>
+    
     
 </html>
 <!--you can use shortcut to design border like border: 3px solid hsl 0,0,0,; border width\design\color-->
